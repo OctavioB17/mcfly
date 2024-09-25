@@ -1,4 +1,4 @@
-# mcfly
+# Mcfly
 Custom photo editor as part of an all-in-one portfolio application
 
 Portfolio APP to upload all the photography of Marty Mcfly
